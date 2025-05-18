@@ -1,0 +1,2 @@
+# All the '.class' file should not be committed.
+*.class
